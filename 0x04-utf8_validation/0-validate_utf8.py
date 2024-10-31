@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+"""UTF-8 Validation"""
+
 def validUTF8(data):
     # Number of bytes remaining in the current UTF-8 character
     bytes_to_process = 0
